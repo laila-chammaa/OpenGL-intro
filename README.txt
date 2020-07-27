@@ -1,7 +1,3 @@
-Laila Chamma'a
-ID: 40107470
-COMP 371 Quiz 1
-
 Selecting Models:
 
 1 -> Select C model
